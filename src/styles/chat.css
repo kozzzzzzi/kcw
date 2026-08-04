@@ -34,7 +34,7 @@
 .messageItem {
   display: flex;
   gap: 8px;
-  margin: 13px 0;
+  margin: 20px 0;
   scroll-margin-top: 18px;
 }
 
