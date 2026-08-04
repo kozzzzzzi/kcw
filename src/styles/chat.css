@@ -64,7 +64,7 @@
 
 .senderName {
   margin: 0 0 5px;
-  font-size: 11px;
+  font-size: 12px;
   color: var(--text-muted);
   font-weight: 400;
   line-height: 1.2;
@@ -86,7 +86,7 @@
   border-radius: 0 18px 18px 18px;
   background: var(--bubble);
   color: var(--text);
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 1.45;
   white-space: pre-wrap;
@@ -102,7 +102,7 @@
   flex: 0 0 auto;
   padding-bottom: 3px;
   color: var(--light-time);
-  font-size: 11px;
+  font-size: 12px;
   font-weight: 400;
   white-space: nowrap;
 }
